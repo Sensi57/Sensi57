@@ -1,6 +1,7 @@
-
+![walpaper](https://github.com/user-attachments/assets/e36acb3d-8788-47ec-8b18-a3081f33980b)
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
+<img src="">
 ## Platforms:
 Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
 
