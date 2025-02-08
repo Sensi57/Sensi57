@@ -1,8 +1,3 @@
-**# Sensei57
-#Tech Stack
-
-![Flutter](https://img.shield.io/badge/-Flutter-090909?sty;e=for-the-badge$logo-appveyor)
-**[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
