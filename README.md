@@ -1,5 +1,5 @@
 ![walpaper](https://github.com/user-attachments/assets/e36acb3d-8788-47ec-8b18-a3081f33980b)
-### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
+### 🎯 CEO of Cupitech <br>🚀 Building Tomorrow's Web Experiences Today
 
 <img src="">
 ## Platforms:
