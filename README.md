@@ -18,6 +18,6 @@ Our team leverages the latest technologies to create seamless, high-performance 
 ## Social Media:
 Be one of the first to join our growing community and transform your everyday life.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/Sensi57)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/Sensi57)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Sensi57)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
