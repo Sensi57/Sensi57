@@ -1,7 +1,6 @@
 ![walpaper](https://github.com/user-attachments/assets/e36acb3d-8788-47ec-8b18-a3081f33980b)
 ### 🎯 CEO of Cupitech <br>🚀 Building Tomorrow's Web Experiences Today
 
-<img src="">
 ## Web tools
 
 ## Social Media:
