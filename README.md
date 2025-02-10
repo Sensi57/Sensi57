@@ -1,8 +1,7 @@
 ![walpaper](https://github.com/user-attachments/assets/e36acb3d-8788-47ec-8b18-a3081f33980b)
 ### 🎯 CEO of Cupitech <br>🚀 Building Tomorrow's Web Experiences Today
 
-## Web tools
-## 🛠️ Technologies and Tools  
+## Technologies and Tools  
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) =
