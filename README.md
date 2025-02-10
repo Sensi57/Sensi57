@@ -2,7 +2,7 @@
 ### 🎯 CEO of Cupitech <br>🚀 Building Tomorrow's Web Experiences Today
 
 ## Web tools
-[![Html](https://img.shields.io/badge/-Html-?style=for-the-badge&logo=html)]
+[![Html](https://img.shields.io/badge/-Html-pink?style=for-the-badge&logo=flatter)]
 ## Social Media:
 Be one of the first to join our growing community and transform your everyday life.
 
