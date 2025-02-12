@@ -36,4 +36,6 @@ Be one of the first to join our growing community and transform your everyday li
 
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/Sensi57)
 [![Telegram](https://img.shields.io/badge/-Telegram-green?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Sensi57)
-[![YouTube](https://img.shields.io/badge/-YouTube-green?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)  
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sensi57)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)  
