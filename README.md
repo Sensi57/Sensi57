@@ -1,5 +1,7 @@
 ![walpaper](https://github.com/user-attachments/assets/e36acb3d-8788-47ec-8b18-a3081f33980b)
-### 🎯 CEO of Cupitech <br>🚀 Building Tomorrow's Web Experiences Today
+### About Me 🚀 Co-founder of Cupitech | 🖥 Frontend Developer 
+
+I'm a tech enthusiast passionate about building seamless web experiences. With expertise in frontend development, I specialize in crafting high-performance, scalable applications using modern web technologies.
 
 ## Technologies and Tools  
 
