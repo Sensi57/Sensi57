@@ -1,5 +1,5 @@
 ![walpaper](https://github.com/user-attachments/assets/e36acb3d-8788-47ec-8b18-a3081f33980b)
-### About Me 🚀 Co-founder of Cupitech | 🖥 Frontend Developer 
+### About Me |  Frontend Developer 
 
 I'm a tech enthusiast passionate about building seamless web experiences. With expertise in frontend development, I specialize in crafting high-performance, scalable applications using modern web technologies.
 
