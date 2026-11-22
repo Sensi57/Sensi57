@@ -1,7 +1,7 @@
 ![walpaper](https://github.com/user-attachments/assets/e36acb3d-8788-47ec-8b18-a3081f33980b)
 ### About Me |  Frontend Developer 
 
-I'm a tech enthusiast passionate about building seamless web experiences. With expertise in frontend development, I specialize in crafting high-performance, scalable applications using modern web technologies.
+I'm a tech enthusiast passionate about building seamless web experiences. With expertise in frontend development, I specialize in crafting high-performance, scalable applications using modern web technologies. I enjoy solving complex problems, leading innovative projects, and constantly learning to stay ahead in web development
 
 ## Technologies and Tools  
 
